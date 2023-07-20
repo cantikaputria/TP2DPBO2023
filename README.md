@@ -39,11 +39,3 @@ Password : tp2
 8. Jika sudah selesai, klik log out dan tampilan akan kembali ke halaman login
 ![image](https://user-images.githubusercontent.com/85111014/232239072-0eceaa1a-5307-4a2c-a359-e4ccda9446ae.png)
 
-Evaluasi :
-1. Tidak adanya relasi tabel
-2. Gagal munculnya image dalam card
-3. Button update belum berfungsi
-4. Gagal untuk menambahkann data
-Dan evaluasi lainnya yang disebabkan karena kesalahan saya sendiri yang menunda-nunda pengerjaan tp2. Hal demikian menjadi evaluasi bagi diri saya sendiri untuk tidak mengulanginya di kemudian hari
-
-Terima kasih! <3
